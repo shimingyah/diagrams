@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T15:11:15.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="eTuatH2iT1INKkW17AMZ" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T15:12:10.392Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="jWNrrAlHq2lD2WO94StP" version="14.9.6" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="17ea667e15c223fc-2" value="Invite reviewers" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17ea667e15c223fc-30" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;sketch=1;" parent="1" source="17ea667e15c223fc-3" target="17ea667e15c223fc-5" edge="1">
+        <mxCell id="17ea667e15c223fc-30" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;sketch=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FD6QhzFvLHyp2FKjti3E-2" target="17ea667e15c223fc-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17ea667e15c223fc-31" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;sketch=1;" parent="1" source="17ea667e15c223fc-3" target="17ea667e15c223fc-4" edge="1">
@@ -197,7 +197,7 @@
         <mxCell id="17ea667e15c223fc-27" value="Combine review X with others" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FD6QhzFvLHyp2FKjti3E-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="FD6QhzFvLHyp2FKjti3E-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
