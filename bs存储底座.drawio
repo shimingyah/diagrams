@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T15:16:07.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Omeey0g18r91QOH3AfWB" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T16:06:49.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lAaXzGz3xWUKkSWeNp24" version="24.7.0" type="github">
   <diagram name="第 1 页" id="hEk644xWBqWTwLnJDk1-">
-    <mxGraphModel dx="1026" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,33 @@
         </mxCell>
         <mxCell id="mA4usco_O7YDniZOFgtf-42" value="BlobStore" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="28.5" y="243.5" width="370" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-5" value="BlockDevice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="560" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-6" value="KernelDevice（HDD/SSD）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="670" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-7" value="NVMEDevice（NVME）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="489" y="670" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="670" as="sourcePoint" />
+            <mxPoint x="319.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-13" value="KernelIO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321" y="630" width="65" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580.5" y="670" as="sourcePoint" />
+            <mxPoint x="580" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBYIenyCoJej_w_-4nAD-15" value="SPDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="579" y="628" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
